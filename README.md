@@ -20,7 +20,7 @@ The following assumptions were used in the ETL process from the Wikipedia, Kaggl
   
 5. __Kaggle data is more consistent and useable than Wikipedia data.__ Based on the analysis it appears that Kaggle data has more consistent and more readily usable data and therefore in cases where the data is the same, Wikipedia has been dropped or used only to fill zeros in the Kaggle data. This assumption is based on scatter plot data which show a lot more outliers in the Wikipedia data as compared to the Kaggle data. 
 
-6. __Columns with less than 90% null values are not useful.__ Aout half the columns have more than 6,000 null values. We made a list of columns that have less than 90% null values and use those to trim down our dataset. We are assuming that this artificial cut-off will not remove data that might be useful for analysis in the future.
+6. __Columns with less than 90% null values are not useful.__ About half the columns have more than 6,000 null values. We made a list of columns that have less than 90% null values and use those to trim down our dataset. We are assuming that this artificial cut-off will not remove data that might be useful for analysis in the future.
  
 
 __NOTE:__ Data files can be found in this link https://drive.google.com/drive/folders/17ADHd9LTMcbhEqtgpS66XxGnmwRdUhkO?usp=sharing
