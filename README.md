@@ -1,6 +1,6 @@
 # Extract Transfom Load (ETL) of Movie Data
 
-ETL is an essential function preparatory to data analysis. Data different sources are extracted, cleaned and loaded into a database for later analysis. Understandably, this can be a tedious and inexact process that relies on assumptions that allow us to get to an acceptable degree of certainty as to the data's integrity and usefulness. Therefore, certain assumptions are necessary to give us a cut-off point of the cleaning that we would do to prevent the process from taking too much time and coding. 
+ETL is an essential function preparatory to data analysis. Data from different sources are extracted, cleaned and loaded into a database for later analysis. Understandably, this can be a tedious and inexact process that relies on assumptions that allow us to get to an acceptable degree of certainty as to the data's integrity and usefulness while balancing time necessary for analysis and coding. Therefore, certain assumptions are necessary to give us a cut-off point of the cleaning that we would do to prevent the process from taking too much time and coding. 
 
 ## Assumptions
 
