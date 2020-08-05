@@ -23,3 +23,4 @@ The following assumptions were used in the ETL process from the Wikipedia, Kaggl
 6. __Columns with less than 90% null values are not useful.__ Aout half the columns have more than 6,000 null values. We made a list of columns that have less than 90% null values and use those to trim down our dataset. We are assuming that this artificial cut-off will not remove data that might be useful for analysis in the future.
  
 
+__NOTE:__ Data files can be found in this link https://drive.google.com/drive/folders/17ADHd9LTMcbhEqtgpS66XxGnmwRdUhkO?usp=sharing
